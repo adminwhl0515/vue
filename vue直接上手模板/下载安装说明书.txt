@@ -1,0 +1,10 @@
+vue的安装步骤：
+把根目录下的vue下的东西复制到你的项目中
+1.Cnpm i 
+2.cnpm i node-sass sass-loader -D 安装sass包
+3.cnpm  i axios -S
+4.装状态管理器vuex   cnpm i vuex --save 
+
+
+-----详情可加作者qq:973506381
+------------作者： 胖虎
